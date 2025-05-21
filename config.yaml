@@ -1,0 +1,4 @@
+BP_ZIP_DATA_PATH: 'data/raw/archive.zip'
+GLUCOSE_ZIP_DATA_PATH: 'data/raw/brist1d.zip'
+BP_PATH: 'data/bp'
+GLUCOSE_PATH: 'data/glucose'
